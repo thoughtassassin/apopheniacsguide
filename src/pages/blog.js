@@ -16,7 +16,7 @@ class Blog extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO title="All posts" />
+        <SEO title="A blog about reality" />
         <Bio />
         <SearchPosts
           posts={posts}
