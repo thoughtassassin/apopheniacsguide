@@ -2,7 +2,7 @@
 path: /guide-to-reality
 date: 2020-10-24T20:40:10.950Z
 title: An Apopheniac's Guide To Reality
-description: In times that are so uncertain it is natural to question the nature of reality
+description: In times so uncertain it is natural to question the nature of reality
 ---
 Apophenia is defined [*as mistakenly perceive meaningful connections between unrelated things*.](https://en.wikipedia.org/wiki/Apophenia) This can be as benign as seeing shapes in clouds. At the other end of the spectrum for apophenia lies disorders like schizophrenia.\
 \
