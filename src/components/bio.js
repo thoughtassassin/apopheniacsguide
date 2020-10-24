@@ -41,7 +41,7 @@ function Bio() {
                   borderRadius: `50%`,
                 }}
               />
-              A blog about reality.
+              A blog about reality
             </h2>
             <div>
               <div>
