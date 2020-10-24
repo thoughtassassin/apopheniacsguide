@@ -44,10 +44,14 @@ function Bio() {
               A blog about reality.
             </h2>
             <div>
-              Written by <strong>{author}</strong>{" "}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                Follow me on Twitter
-              </a>
+              <div>
+                Written by <strong>{author}</strong>
+              </div>
+              <div>
+                <a href={`https://twitter.com/${social.twitter}`}>
+                  Follow me on Twitter
+                </a>
+              </div>
             </div>
           </Container>
         )
