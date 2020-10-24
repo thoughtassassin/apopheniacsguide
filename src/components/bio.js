@@ -20,26 +20,35 @@ function Bio() {
         const { author, social } = data.site.siteMetadata
         return (
           <Container>
-            <Image
-              fixed={data.avatar.childImageSharp.fixed}
-              alt={author}
+            <h2
               style={{
-                marginRight: rhythm(1 / 2),
-                marginBottom: 0,
-                minWidth: 50,
-                borderRadius: `100%`,
+                margin: "0 0 1rem 0",
+                padding: 0,
+                display: "flex",
+                alignItems: "center",
               }}
-              imgStyle={{
-                borderRadius: `50%`,
-              }}
-            />
-            <p>
-              Written by <strong>{author}</strong>
-              {` `}
+            >
+              <Image
+                fixed={data.avatar.childImageSharp.fixed}
+                alt={author}
+                style={{
+                  marginRight: rhythm(1 / 2),
+                  marginBottom: 0,
+                  minWidth: 50,
+                  borderRadius: `100%`,
+                }}
+                imgStyle={{
+                  borderRadius: `50%`,
+                }}
+              />
+              A blog about reality.
+            </h2>
+            <div>
+              Written by <strong>{author}</strong>{" "}
               <a href={`https://twitter.com/${social.twitter}`}>
                 Follow me on Twitter
               </a>
-            </p>
+            </div>
           </Container>
         )
       }}
@@ -69,7 +78,7 @@ const bioQuery = graphql`
 
 const Container = styled.div`
   display: flex;
-  align-items: center;
+  flex-direction: column;
   margin-bottom: 2rem;
 `
 
