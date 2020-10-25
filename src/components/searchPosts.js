@@ -131,9 +131,7 @@ const SearchPosts = ({ posts, localSearchBlog, location, navigate }) => {
           placeholder="Search all posts"
           value={query}
           onChange={e => {
-            navigate(
-              e.target.value ? `/blog/?search=${e.target.value}` : "/blog/"
-            )
+            navigate(e.target.value ? `/?search=${e.target.value}` : "/")
             setQuery(e.target.value)
           }}
         />
