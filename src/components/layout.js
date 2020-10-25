@@ -60,16 +60,21 @@ class Layout extends React.Component {
             marginLeft: `auto`,
             marginRight: `auto`,
             maxWidth: rhythm(24),
-            padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+            padding: `${rhythm(1.5)} ${rhythm(3 / 4)} 0 ${rhythm(3 / 4)}`,
           }}
         >
           <header>{header}</header>
           <main>{children}</main>
         </div>
-        <Footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <Footer
+          style={{
+            marginLeft: `auto`,
+            marginRight: `auto`,
+            maxWidth: rhythm(24),
+            padding: `0 ${rhythm(3 / 4)}`,
+          }}
+        >
+          © {new Date().getFullYear()}
         </Footer>
       </Wrapper>
     )
@@ -81,7 +86,6 @@ const Wrapper = styled.div`
 `
 
 const Footer = styled.footer`
-  text-align: center;
   margin: 24px;
 `
 
