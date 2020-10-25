@@ -44,7 +44,7 @@ function Bio() {
               />
               A blog about reality
             </h2>
-            <div>
+            <div style={{ fontSize: "0.8rem" }}>
               <div>
                 Written by <strong>{author}</strong>
               </div>
