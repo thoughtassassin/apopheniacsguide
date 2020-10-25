@@ -51,10 +51,11 @@ const SearchedPosts = ({ results }) =>
       const slug = node.slug
 
       return (
-        <div key={slug}>
+        <div key={slug} style={{ margin: "20px 0 40px" }}>
           <h3
             style={{
               marginBottom: rhythm(1 / 4),
+              marginTop: "2rem",
             }}
           >
             <Link style={{ boxShadow: `none` }} to={`/blog${slug}`}>
@@ -85,6 +86,7 @@ const AllPosts = ({ posts }) => (
           <h3
             style={{
               marginBottom: rhythm(1 / 4),
+              marginTop: "2rem",
             }}
           >
             <Link style={{ boxShadow: `none` }} to={`/blog${node.fields.slug}`}>
