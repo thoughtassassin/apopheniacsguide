@@ -1,4 +1,5 @@
 import React from "react"
+import { StaticQuery, graphql } from "gatsby"
 import { Link } from "gatsby"
 import styled from "styled-components"
 
@@ -67,20 +68,47 @@ class Layout extends React.Component {
           <header>{header}</header>
           <main>{children}</main>
         </div>
-        <Footer
-          style={{
-            marginLeft: `auto`,
-            marginRight: `auto`,
-            maxWidth: rhythm(24),
-            padding: `0 ${rhythm(3 / 4)}`,
+        <StaticQuery
+          query={socialQuery}
+          render={data => {
+            const { social } = data.site.siteMetadata
+            return (
+              <Footer
+                style={{
+                  marginLeft: `auto`,
+                  marginRight: `auto`,
+                  maxWidth: rhythm(24),
+                  padding: `0 ${rhythm(3 / 4)}`,
+                }}
+              >
+                © {new Date().getFullYear()},{" "}
+                <a
+                  style={{ fontSize: "0.8rem" }}
+                  href={`https://twitter.com/${social.twitter}`}
+                >
+                  Follow me on Twitter
+                </a>
+              </Footer>
+            )
           }}
-        >
-          © {new Date().getFullYear()}
-        </Footer>
+        />
       </Wrapper>
     )
   }
 }
+
+const socialQuery = graphql`
+  query SocialQuery {
+    site {
+      siteMetadata {
+        author
+        social {
+          twitter
+        }
+      }
+    }
+  }
+`
 
 const Wrapper = styled.div`
   min-height: 100vh;
