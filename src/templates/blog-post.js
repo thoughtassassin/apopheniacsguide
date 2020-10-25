@@ -34,6 +34,8 @@ class BlogPostTemplate extends React.Component {
         <hr
           style={{
             marginBottom: rhythm(1),
+            borderTop: "1px dashed #333",
+            backgroundColor: "transparent",
           }}
         />
         <Bio />
