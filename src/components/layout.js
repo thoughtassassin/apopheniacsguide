@@ -17,7 +17,7 @@ class Layout extends React.Component {
           style={{
             ...scale(1),
             lineHeight: "2.5rem",
-            marginBottom: rhythm(1.5),
+            marginBottom: "0.8rem",
             marginTop: 0,
           }}
         >
