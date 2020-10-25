@@ -8,6 +8,6 @@ Apophenia is defined [as the mistaken perception of *meaningful connections betw
 
 Apopheniac is not in the dictionary. I am coining the term to provide a way to describe one who experiences apophenia.
 
-In this blog I explore ideas from disciplines like cosmology, quantum physics, consciousness, AI, art, cultural theory and philosophy. These disciplines tell us something about how we perceive the world we live in and about the meaningful connections that we make. Admittedly I am not an expert in any of the subjects. Perhaps the best I can hope to do is provide is an entertaining form of apophenia. 
+In this blog I explore ideas coming from disciplines like cosmology, quantum physics, consciousness, AI, art, cultural theory and philosophy. These disciplines tell us something about how we perceive the world we live in and also about the meaningful connections that we make. Admittedly I am not an expert in any of the subjects. Perhaps the best I can hope to do is provide is an entertaining form of apophenia. 
 
 Thank you for taking time to read my blog. I hope you enjoy these subjects as much as I do.
