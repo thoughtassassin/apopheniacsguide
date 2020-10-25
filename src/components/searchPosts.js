@@ -72,9 +72,7 @@ const SearchedPosts = ({ results }) =>
       )
     })
   ) : (
-    <p style={{ textAlign: "center" }}>
-      Sorry, couldn't find any posts matching this search.
-    </p>
+    <p>Sorry, couldn't find any posts matching this search.</p>
   )
 
 const AllPosts = ({ posts }) => (
