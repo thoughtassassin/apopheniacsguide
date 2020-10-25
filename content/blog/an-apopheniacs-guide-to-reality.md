@@ -2,7 +2,7 @@
 path: /guide-to-reality
 date: 2020-10-24T20:40:10.950Z
 title: An Apopheniac's Guide To Reality
-description: Uncertainty invites us to wonder about models of reality
+description: Uncertainty invites us to investigate our of models of reality
 ---
 Apophenia is defined [as the mistaken perception of *meaningful connections between unrelated things*.](https://en.wikipedia.org/wiki/Apophenia) Apophenia can be as benign as seeing shapes in clouds. On the other hand the word can be used to describe disorders like schizophrenia.
 
