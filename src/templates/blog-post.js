@@ -33,7 +33,7 @@ class BlogPostTemplate extends React.Component {
         <MDXRenderer>{post.body}</MDXRenderer>
         <hr
           style={{
-            marginBottom: rhythm(1),
+            marginBottom: "1rem",
             borderTop: "1px dashed #333",
             backgroundColor: "transparent",
           }}
