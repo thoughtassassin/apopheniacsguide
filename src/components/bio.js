@@ -26,6 +26,7 @@ function Bio() {
                 padding: 0,
                 display: "flex",
                 alignItems: "center",
+                fontSize: "1.5rem",
               }}
             >
               <Image
