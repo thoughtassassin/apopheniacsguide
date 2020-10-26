@@ -8,7 +8,7 @@ Reality is easiest to define as *[the quality or state of being real](https://ww
 
 Trying to get beyond the general definition is tricky. Despite a wealth of knowledge there are limits to what is known. As a result people often disagree about what is real. Even experts disagree.
 
-The difficulty in talking about reality is exemplified by a conversation I had with a dental hygienist years ago. Maybe my first mistake was trying to make Einstein's Theory of Relativity a topic of idle conversation. I described the idea that the speed of light was the universal constant whereas every other measurement is relative. The hygienist thought about what I said, and remarked that the true universal constant is God. 
+The difficulty in talking about reality is exemplified by a conversation I had with a dental hygienist years ago. Maybe my first mistake was trying to make Einstein's Theory of Relativity a topic of idle conversation. I mentioned that the speed of light is called the universal constant. The hygienist thought about what I said, and remarked that the true universal constant is God. 
 
 Getting answers like that isn't entirely surprising when you live in the Bible Belt. Sacred and secular knowledge often disagree about the nature of reality. Moral and ethical judgments are entangled in the question. Discussions about reality can get heated quickly.
 
