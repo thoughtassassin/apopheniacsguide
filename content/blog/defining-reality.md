@@ -14,4 +14,4 @@ Getting answers like that isn't entirely surprising when you live in the Bible B
 
 Even if we limit our discussion of reality to secular or scientific knowledge, experts in those fields often disagree. Historically, Niels Bohr's and Albert Einstein's debate about quantum mechanics is telling. After Bohr's student Werner Heisenberg discovered the [Uncertainty Principle](https://plato.stanford.edu/entries/qt-uncertainty/), Einstein quipped that *[God does not play dice with the Universe](https://www.businessinsider.com/god-does-not-play-dice-quote-meaning-2015-11)*. Despite quantum mechanics becoming one of the most successful scientific theories, Einstein was bothered by the idea that reality could be left to chance (to be certain Einstein contributed greatly to the field of quantum mechanics).
 
-Part of what makes discussions about reality so compelling is that despite seeming basic, intuitive and fundamental, reality is ellusive.
+Part of what makes discussions about reality so compelling is that despite seeming basic, intuitive and fundamental, definitions of reality are difficult to agree upon.
