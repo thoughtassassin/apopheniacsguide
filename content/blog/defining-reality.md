@@ -4,7 +4,7 @@ date: 2020-10-25T19:52:30.669Z
 title: Defining Reality
 description: Why is reality so difficult to describe?
 ---
-At the most general level reality is easiest to define as *[the quality or state of being real](https://www.merriam-webster.com/dictionary/reality)*. Reality is neither [*fantasy, fiction* nor *illusion*](https://www.merriam-webster.com/thesaurus/reality).
+Reality is easiest to define as *[the quality or state of being real](https://www.merriam-webster.com/dictionary/reality)*. Reality is neither [*fantasy, fiction* nor *illusion*](https://www.merriam-webster.com/thesaurus/reality).
 
 Trying to get beyond the general definition is tricky. Despite a wealth of knowledge there are limits to what is known. As a result people often disagree about what is real. Even experts disagree.
 
