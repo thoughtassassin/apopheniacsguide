@@ -43,34 +43,36 @@ const SearchBar = styled.div`
 
 const SearchedPosts = ({ results }) =>
   results.length > 0 ? (
-    results.map(node => {
-      const date = node.date
-      const title = node.title || node.slug
-      const description = node.description
-      const excerpt = node.excerpt
-      const slug = node.slug
+    <div style={{ margin: "20px 0 40px" }}>
+      {results.map(node => {
+        const date = node.date
+        const title = node.title || node.slug
+        const description = node.description
+        const excerpt = node.excerpt
+        const slug = node.slug
 
-      return (
-        <div key={slug} style={{ margin: "20px 0 40px" }}>
-          <h3
-            style={{
-              marginBottom: rhythm(1 / 4),
-              marginTop: "2rem",
-            }}
-          >
-            <Link style={{ boxShadow: `none` }} to={`/blog${slug}`}>
-              {title}
-            </Link>
-          </h3>
-          <small>{date}</small>
-          <p
-            dangerouslySetInnerHTML={{
-              __html: description || excerpt,
-            }}
-          />
-        </div>
-      )
-    })
+        return (
+          <div key={slug}>
+            <h3
+              style={{
+                marginBottom: rhythm(1 / 4),
+                marginTop: "2rem",
+              }}
+            >
+              <Link style={{ boxShadow: `none` }} to={`/blog${slug}`}>
+                {title}
+              </Link>
+            </h3>
+            <small>{date}</small>
+            <p
+              dangerouslySetInnerHTML={{
+                __html: description || excerpt,
+              }}
+            />
+          </div>
+        )
+      })}
+    </div>
   ) : (
     <p>Sorry, couldn't find any posts matching this search.</p>
   )
