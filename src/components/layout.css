@@ -1,3 +1,7 @@
-body { 
+body {
     background: #DDD;
+}
+
+h3 a {
+    color: #1b75bb;
 }
