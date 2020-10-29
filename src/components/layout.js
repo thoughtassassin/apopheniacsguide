@@ -1,5 +1,4 @@
 import React from "react"
-import { ScrollContainer } from "gatsby-react-router-scroll"
 import { StaticQuery, graphql } from "gatsby"
 import { Link } from "gatsby"
 import styled from "styled-components"
@@ -58,45 +57,43 @@ class Layout extends React.Component {
       )
     }
     return (
-      <ScrollContainer key="page-component-ul-list">
-        <Wrapper>
-          <div
-            style={{
-              marginLeft: `auto`,
-              marginRight: `auto`,
-              maxWidth: rhythm(24),
-              padding: `${rhythm(1.5)} ${rhythm(3 / 4)} 0 ${rhythm(3 / 4)}`,
-            }}
-          >
-            <header>{header}</header>
-            <main>{children}</main>
-          </div>
-          <StaticQuery
-            query={socialQuery}
-            render={data => {
-              const { social } = data.site.siteMetadata
-              return (
-                <Footer
-                  style={{
-                    marginLeft: `auto`,
-                    marginRight: `auto`,
-                    maxWidth: rhythm(24),
-                    padding: `0 ${rhythm(3 / 4)}`,
-                  }}
+      <Wrapper>
+        <div
+          style={{
+            marginLeft: `auto`,
+            marginRight: `auto`,
+            maxWidth: rhythm(24),
+            padding: `${rhythm(1.5)} ${rhythm(3 / 4)} 0 ${rhythm(3 / 4)}`,
+          }}
+        >
+          <header>{header}</header>
+          <main>{children}</main>
+        </div>
+        <StaticQuery
+          query={socialQuery}
+          render={data => {
+            const { social } = data.site.siteMetadata
+            return (
+              <Footer
+                style={{
+                  marginLeft: `auto`,
+                  marginRight: `auto`,
+                  maxWidth: rhythm(24),
+                  padding: `0 ${rhythm(3 / 4)}`,
+                }}
+              >
+                © {new Date().getFullYear()},{" "}
+                <a
+                  style={{ fontSize: "0.8rem" }}
+                  href={`https://twitter.com/${social.twitter}`}
                 >
-                  © {new Date().getFullYear()},{" "}
-                  <a
-                    style={{ fontSize: "0.8rem" }}
-                    href={`https://twitter.com/${social.twitter}`}
-                  >
-                    Follow me on Twitter
-                  </a>
-                </Footer>
-              )
-            }}
-          />
-        </Wrapper>
-      </ScrollContainer>
+                  Follow me on Twitter
+                </a>
+              </Footer>
+            )
+          }}
+        />
+      </Wrapper>
     )
   }
 }
