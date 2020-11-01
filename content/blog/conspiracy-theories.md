@@ -8,7 +8,7 @@ A conspiracy theory is like a distorting lens forged from the consensus of its b
 
 As values and beliefs are challenged some turn away from the reality that confronts them. Uncomfortable facts are revealed. It becomes necessary to suppress these revelations with *[magical thinking](https://bostonreview.net/politics/samuel-clowes-huneke-when-democracy-ails-magic-thrives)*.
 
-The unraveling of the global order established after World War II provokes anxiety in America. From the end of World War II to the fall of the Berlin Wall, the Cold War defined America’s sense of identity. During the Cold War, America felt confident in its role as the champion of the free market economy and of universal human freedom.
+The unraveling of the global order established after World War II provokes anxiety in America. From the end of World War II to the fall of the Berlin Wall, the Cold War defined America’s sense of identity. During the Cold War, America felt confident in its role as the champion of the free market economy and of universal human freedom
 
 After the end of the Cold War, America’s role in the world had to be redefined. Francis Fukayama described the *[end of history](https://www.newyorker.com/magazine/2018/09/03/francis-fukuyama-postpones-the-end-of-history)*. The task left for free market economies after the fall of Communism was to solve the world’s problems though market solutions. America was left unchallenged as the sole superpower in the world.  
 
