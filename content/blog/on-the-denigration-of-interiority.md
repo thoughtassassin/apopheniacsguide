@@ -18,11 +18,11 @@ I lapse into this emotional plea because I see a distressing trend in contempora
 
 ["Fuck your feelings"](https://markmanson.net/fuck-your-feelings)
 
-Author and philosopher Mark Manson invites his readers to rid themselves of self-indulgence and focus on the question of what is good. This is excellent advice. He warns that self-absorption [(metafeelings)](https://markmanson.net/fuck-your-feelings#metafeelings-table) acts as a barrier to a rational path to self-fulfillment. Moreover, he warns: 
+Author and philosopher Mark Manson invites his readers to rid themselves of self-indulgence and focus on the question of what is good. This is excellent advice. He warns that self-absorption [(meta-feelings)](https://markmanson.net/fuck-your-feelings#metafeelings-table) acts as a barrier to a rational path to self-fulfillment. Moreover, he warns: 
 
 > Much of the social strife that we’re experiencing today is the result of these meta-feelings. Moralizing mobs on both the political right and left see themselves as victimized and somehow special in every miniscule pain or setback they experience. Greed skyrockets while the rich congratulate themselves on being rich in tandem with the increasing rates of [anxiety](https://markmanson.net/videos/overcome-anxiety-course) and depression as the lower and middle classes hate themselves for feeling left behind.
 
-However, the irony and paradox in the phrase "fuck your feelings" is obvious. A strong emotional reaction to emotion itself is evident. Speaking of metafeelings... 🤔
+However, the irony and paradox in the phrase "fuck your feelings" is obvious. A strong emotional reaction to emotion itself is evident. Speaking of meta-feelings... 🤔
 
 Manson's advice is unmistakably in the [stoic tradition](https://en.wikipedia.org/wiki/Stoicism). Stoicism begins in the Hellenistic era. An old college philosophy text book that I have says that new philosophical movements (including stoicism) during this time "led people to think primarily of themselves and how they as individuals in a scheme of nature could achieve the most satisfactory personal life." [^1]
 
