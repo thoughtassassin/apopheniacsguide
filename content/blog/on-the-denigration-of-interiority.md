@@ -28,7 +28,7 @@ The text goes on to provide the historical context for the rise of these philoso
 
 > These new directions in ethics were brought about to a great extent by the historical conditions of the time. After the Peloponnesian War and with the fall of Athens, Greek civilization declined. With the breakdown of the small Greek city-state, individual citizens lost the sense of the their own importance and their ability to control or perfect thier social and political destiny. Individuals increasingly felt this loss of personal control over collective life as they were absorbed into the growing Roman Empire.
 
-Some of the descriptions of Manson's work that I have read characterize his writings as a Millenialist perspective. The self-help offered is in lieu of a decreasing standard of living for the middle class aided and abetted by neoliberal fiscal policies and accompanied by the dismantling of a post World War II global order. It's not surprising that a stoic philosophy would become ascendant.
+Some of the descriptions of Manson's work that I have read characterize his writings as a Millenialist perspective. The self-help offered is in lieu of a decreasing standard of living for the middle class aided and a dismantling of the post World War II global order. It's not surprising that a stoic philosophy would become ascendant.
 
 The empowerment that Stoicism provides comes at the cost of turning the locus of control inward. You might not be able to control what is going on in the world but you can control how you respond.
 
@@ -36,7 +36,9 @@ Unfortunately, this type of defeatism serves the status quo. There is nothing pa
 
 In the Trumpian context "fuck your feelings" is offered as a facile remedy to years of civil rights legislation, progressive fiscal policies and regulations that have aimed at making life fairer for the average person. The gist is that life isn't fair so stop feeling bad or at all about it. They'll call you a snowflake if you feel that children shouldn't be caged at the border. They'll deride your sense of patriotism (and therefore your sense of "what is good") if you feel sickened when you watch the non-stop video documentation of abuses in the criminal justice system.
 
-In this general mileu of downplaying the importance of emotion it is lost that years of struggle to make society more just have been guided by raw emotions. Powerful emotions. Emotions that intuitively guided and empowered people to seek justice and the greater good of humanity.
+In this milieu of downplaying the importance of feelings it is lost that years of struggle to make society more just have been guided by raw emotions. Powerful emotions. Emotions that intuitively guided and empowered people to seek justice and the greater good of humanity.
+
+The power of emotion is that it is guided by intuition and past experience. One doesn't have to take the time to painstakingly craft a general epistemological and ethical model to understand that people being killed for a minor traffic violation is wrong. Emotion 
 
 [^1] Samuel Enoch Stumpf, Socrates to Sartre (New York: McGraw-Hill, 1993), 108-109.
 
