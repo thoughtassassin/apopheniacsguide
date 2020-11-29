@@ -22,4 +22,4 @@ Author and philosopher Mark Manson invites his readers to rid themselves of self
 
 However, the irony and paradox central in the phrase "fuck your feelings" is that it invites you to be indignant about being emotional. 🤔
 
-I have to believe that the advice given is in the stoic tradition.
+Manson's advice is unmistakenly [stoicism](https://en.wikipedia.org/wiki/Stoicism).
