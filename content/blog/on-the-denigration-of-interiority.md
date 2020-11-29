@@ -8,7 +8,7 @@ What exists?
 
 That is the central question in our discussion of reality.
 
-To be able to examine this question we rely upon how we experience that which exists. The role of the observer is essential to understanding fundamental laws of nature such as quantum mechanics and relativity. The state of particles depends upon the role of the observer. Speed and motion depends upon the role of the observer.
+To be able to examine this question we rely upon how we experience that which exists. The role of the observer is essential to understanding fundamental laws of nature such as quantum mechanics and relativity. The state of particles depends upon the role of the observer. Determining Speed and motion depends upon the position of the observer.
 
 I bring this up to bring you a strangely hopeful message. Your role in the universe is consequential. Your effect is scientifically quantifiable. Each movement that you make sends ripples into the universe.
 
