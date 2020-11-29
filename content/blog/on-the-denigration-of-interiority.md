@@ -26,7 +26,7 @@ Manson's advice is unmistakenly in the [stoic tradition](https://en.wikipedia.or
 
 The text goes on to provide the historical context for the rise of these philosophical movements:
 
-> These new directions in ethics were brought about to a great extent by the historical conditions of the time. After the Peloponnesian War and with the fall of Athens, Greek civilization declined. With the breakdown of the small Greek city-state, individual citizens lost the sense of the their own importance and their ability to control or perfect thier social and political destiny. Individuals increasingly felt this loss of personal control over collective life as they were absorbed into the growning Roman Empire.
+> These new directions in ethics were brought about to a great extent by the historical conditions of the time. After the Peloponnesian War and with the fall of Athens, Greek civilization declined. With the breakdown of the small Greek city-state, individual citizens lost the sense of the their own importance and their ability to control or perfect thier social and political destiny. Individuals increasingly felt this loss of personal control over collective life as they were absorbed into the growing Roman Empire.
 
 [^1] Samuel Enoch Stumpf, Socrates to Sartre (New York: McGraw-Hill, 1993), 108-109.
 
