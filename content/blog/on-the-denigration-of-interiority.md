@@ -14,7 +14,7 @@ I bring this up to bring you a strangely hopeful message. Your role in the unive
 
 I lapse into this emotional plea because I see a distressing trend in contemporary discourse that could most generously be described as a malignant brand of stoicism:
 
-![](../assets/trump-rally-fuck-your-feelings.jpg)
+![Trump rally supporters with Fuck Your Feelings tshirts](../assets/trump-rally-fuck-your-feelings.jpg)
 
 ["Fuck your feelings"](https://markmanson.net/fuck-your-feelings)
 
@@ -39,6 +39,8 @@ I don't have a problem with Manson's brand of stoicism. Unfortunately, I can't g
 In the Trumpian context "fuck your feelings" is offered as a facile remedy to ills supposedly brought about by years of civil rights legislation, progressive fiscal policies and regulations that have aimed at making life fairer for the average person. The gist is that life isn't fair so stop feeling bad or at all about it. One is called a snowflake if that individual feels that children shouldn't be caged at the border. On is not a patriot (on the side of "what is good") if you feel sickened when you see the non-stop video documentation of abuses within the criminal justice system.
 
 In downplaying the importance of feelings what is lost  is that years of struggle to make society more just have been guided by raw emotions. Powerful emotions. Emotions that intuitively guided and empowered people to seek and enact justice for the greater good of humanity.
+
+![Civil rights marchers arm in arm](../assets/ap_6503170265.jpg)
 
 The power of emotion is that it is guided by intuition and past experience. One doesn't have to take the time to painstakingly craft a general epistemological and ethical model to understand that people being killed for a minor traffic violation is wrong. Rational thought isn't the only component of ethical behavior. 
 
