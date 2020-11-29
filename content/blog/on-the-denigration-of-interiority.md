@@ -28,5 +28,9 @@ The text goes on to provide the historical context for the rise of these philoso
 
 > These new directions in ethics were brought about to a great extent by the historical conditions of the time. After the Peloponnesian War and with the fall of Athens, Greek civilization declined. With the breakdown of the small Greek city-state, individual citizens lost the sense of the their own importance and their ability to control or perfect thier social and political destiny. Individuals increasingly felt this loss of personal control over collective life as they were absorbed into the growing Roman Empire.
 
+The empowerment that Stoicism provides comes at the cost of turning the locus of control inward. You might not be able to control what is going on in the world but you can control how you respond.
+
+
+
 [^1] Samuel Enoch Stumpf, Socrates to Sartre (New York: McGraw-Hill, 1993), 108-109.
 
