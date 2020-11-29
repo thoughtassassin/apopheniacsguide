@@ -24,5 +24,7 @@ However, the irony and paradox in the phrase "fuck your feelings" is obvious. A 
 
 Manson's advice is unmistakenly in the [stoic tradition](https://en.wikipedia.org/wiki/Stoicism). Stoicism begins in the Hellenistic era in Greece synomous with the decline of the Classical period in ancient Greece. An old college philosophy text book that I have says that during that time "these new philosophers led people to think primarily of themselves and how they as individuals in a scheme of nature could achieve the most satisfactory personal life." [^1]
 
+The text goes on to describe the historical conditions for the rise of philosophical movements
+
 [^1] Samuel Enoch Stumpf, Socrates to Sartre (New York: McGraw-Hill, 1993), 108-109.
 
