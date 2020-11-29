@@ -32,9 +32,9 @@ Some of the descriptions of Manson's work that I have read characterize his writ
 
 The empowerment that Stoicism provides comes at the cost of turning the locus of control inward. You might not be able to control what is going on in the world but you can control how you respond.
 
-Unfortunately, this type of defeatism serves the status quo. There is nothing particularly radical about it. I don't have a problem with Manson's brand of stoicism. Unfortunately, the phrase "Fuck your Feelings" has also become a Trumpian fascist mantra.
+Unfortunately, this type of defeatism serves the status quo. There is nothing particularly radical about it. I don't have a problem with Manson's brand of stoicism. Unfortunately, I can't get past the fact that the phrase "fuck your feelings" has also become a Trumpian fascist mantra.
 
-In this context it is meant as a critique 
+In this context "fuck your feelings" is offered as a facile remedy to years of civil rights legislation, progressive fiscal policies and regulations that have aimed at making life fairer for the average person. The gist is that life isn't fair so stop feeling bad or at all about it. Simply hone
 
 [^1] Samuel Enoch Stumpf, Socrates to Sartre (New York: McGraw-Hill, 1993), 108-109.
 
