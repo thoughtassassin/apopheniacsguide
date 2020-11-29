@@ -20,7 +20,7 @@ Author and philosopher Mark Manson invites his readers to rid themselves of self
 
 > Much of the social strife that we’re experiencing today is the result of these meta-feelings. Moralizing mobs on both the political right and left see themselves as victimized and somehow special in every miniscule pain or setback they experience. Greed skyrockets while the rich congratulate themselves on being rich in tandem with the increasing rates of [anxiety](https://markmanson.net/videos/overcome-anxiety-course) and depression as the lower and middle classes hate themselves for feeling left behind.
 
-However, the irony and paradox in the phrase "fuck your feelings" is obvious. We are asked to be indignant about being emotional. 🤔
+However, the irony and paradox in the phrase "fuck your feelings" is obvious. A strong emotional reaction to emotion itself is evinced. Talk about metafeelings. 🤔
 
 Manson's advice is unmistakenly in the [stoic tradition](https://en.wikipedia.org/wiki/Stoicism). Stoicism begins in the Hellenistic era in Greece synomous with the decline of the Classical period in ancient Greece. An old college philosophy text book that I have says that during that time "these new philosophers led people to think primarily of themselves and how they as individuals in a scheme of nature could achieve the most satisfactory personal life.[^1]
 
