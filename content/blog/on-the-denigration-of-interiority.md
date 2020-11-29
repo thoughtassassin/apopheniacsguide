@@ -34,12 +34,14 @@ The empowerment that Stoicism provides comes at the cost of turning the locus of
 
 This type of defeatism serves the interests of a status quo. There is nothing particularly radical about it. I don't have a problem with Manson's brand of stoicism. Unfortunately, I can't get past the fact that the phrase "fuck your feelings" has also become a Trumpian fascist mantra.
 
-In the Trumpian context "fuck your feelings" is offered as a facile remedy to years of civil rights legislation, progressive fiscal policies and regulations that have aimed at making life fairer for the average person. The gist is that life isn't fair so stop feeling bad or at all about it. One is called a snowflake if that individual feels that children shouldn't be caged at the border. They'll deride your sense of patriotism (and therefore your sense of "what is good") if you feel sickened when you watch the non-stop video documentation of abuses in the criminal justice system.
+In the Trumpian context "fuck your feelings" is offered as a facile remedy to ills supposedly brought about by years of civil rights legislation, progressive fiscal policies and regulations that have aimed at making life fairer for the average person. The gist is that life isn't fair so stop feeling bad or at all about it. One is called a snowflake if that individual feels that children shouldn't be caged at the border. On is not a patriot (on the side of "what is good") if you feel sickened when you see the non-stop video documentation of abuses within the criminal justice system.
 
-In this milieu of downplaying the importance of feelings it is lost that years of struggle to make society more just have been guided by raw emotions. Powerful emotions. Emotions that intuitively guided and empowered people to seek justice and the greater good of humanity.
+In downplaying the importance of feelings what is lost  is that years of struggle to make society more just have been guided by raw emotions. Powerful emotions. Emotions that intuitively guided and empowered people to seek and enact justice for the greater good of humanity.
 
 The power of emotion is that it is guided by intuition and past experience. One doesn't have to take the time to painstakingly craft a general epistemological and ethical model to understand that people being killed for a minor traffic violation is wrong. Rational thought isn't the only component of ethical behavior. 
 
-Current research shows a relationship between [general intelligence and emotions](https://www.scientificamerican.com/article/emotional-smarts-tied-to/). Emotions are not simply a vestigal remnant of a primitive mind.
+Furthermore, current research shows a relationship between [general intelligence and emotions](https://www.scientificamerican.com/article/emotional-smarts-tied-to/). Emotions are not simply a vestigial remnant of a primitive mind. Feelings are an important component of we treat others and an important indication of how one acts ethically in a social context. \
+\
+No doubt about it, navigating feelings is often challenging. Feelings are unavoidable. To ask someone to cast aside their feelings is like asking them to cast aside their humanity. Having emotions shouldn't be something that one should feel ashamed of.
 
 [^1] Samuel Enoch Stumpf, Socrates to Sartre (New York: McGraw-Hill, 1993), 108-109.
