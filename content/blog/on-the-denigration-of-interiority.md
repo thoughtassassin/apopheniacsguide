@@ -42,7 +42,7 @@ Years of struggle to make society more just have been guided by raw emotions. Po
 
 ![Civil rights marchers arm in arm](../assets/ap_6503170265.jpg)
 
-The power of emotion is that it is guided by intuition and past experience. One doesn't have to take the time to painstakingly craft a general epistemological and ethical model to understand that people being killed for a minor traffic violation is wrong. Rational thought isn't the only component of ethical behavior. 
+The strength of emotion is that it is intuitive. One doesn't have to take the time to painstakingly craft a general epistemological and ethical model to understand that people being killed for a minor traffic violation is wrong. Rational thought isn't the only component of ethical behavior. 
 
 Furthermore, current research shows a relationship between [general intelligence and emotions](https://www.scientificamerican.com/article/emotional-smarts-tied-to/). Emotions are not simply a vestigial remnant of a primitive mind. Feelings are an important component of how we treat others and an important factor in how one acts ethically in a social context.
 
