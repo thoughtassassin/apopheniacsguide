@@ -48,6 +48,6 @@ Furthermore, current research shows a relationship between [general intelligence
 
 No doubt about it, navigating feelings is often challenging. Feelings are unavoidable. Nevertheless, to ask someone to cast aside their feelings is like asking them to cast aside their humanity. Having emotions shouldn't be something that one should feel ashamed of. Moreover, the notion of being able to stamp out emotional challenges through reason and choice alone risks stigmatizing legitimate mental health issues.
 
-I would go so far as to say embrace your emotions. Emotions are part of who you are. They provide context for you experiences. They are a part of your mind and body. Feelings are an unavoidable and necessary part of the observational framework that you use to understand the reality around you.
+I would go so far as to say embrace your emotions. Emotions are part of who you are. They provide context for your experiences.  Feelings are an essential part of the observational framework that you use to understand the reality around you.
 
 [^1] Samuel Enoch Stumpf, Socrates to Sartre (New York: McGraw-Hill, 1993), 108-109.
