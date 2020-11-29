@@ -34,7 +34,9 @@ The empowerment that Stoicism provides comes at the cost of turning the locus of
 
 Unfortunately, this type of defeatism serves the status quo. There is nothing particularly radical about it. I don't have a problem with Manson's brand of stoicism. Unfortunately, I can't get past the fact that the phrase "fuck your feelings" has also become a Trumpian fascist mantra.
 
-In this context "fuck your feelings" is offered as a facile remedy to years of civil rights legislation, progressive fiscal policies and regulations that have aimed at making life fairer for the average person. The gist is that life isn't fair so stop feeling bad or at all about it. Simply hone
+In the Trumpian context "fuck your feelings" is offered as a facile remedy to years of civil rights legislation, progressive fiscal policies and regulations that have aimed at making life fairer for the average person. The gist is that life isn't fair so stop feeling bad or at all about it. They'll call you a snowflake if you feel that children shouldn't be caged at the border. They'll deride your sense of patriotism (and therefore your sense of "what is good") if you feel sickened when you watch the non-stop video documentation of abuses in the criminal justice system.
+
+In this general mileu of downplaying the importance of emotion it is lost that years of struggle to make society more just have been guided by raw emotions. Powerful emotions. Emotions that intuitively guided and empowered people to seek justice and the greater good of humanity.
 
 [^1] Samuel Enoch Stumpf, Socrates to Sartre (New York: McGraw-Hill, 1993), 108-109.
 
