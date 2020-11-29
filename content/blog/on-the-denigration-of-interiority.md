@@ -22,7 +22,7 @@ Author and philosopher Mark Manson invites his readers to rid themselves of self
 
 However, the irony and paradox in the phrase "fuck your feelings" is obvious. A strong emotional reaction to emotion itself is evident. Speaking of metafeelings... 🤔
 
-Manson's advice is unmistakenly in the [stoic tradition](https://en.wikipedia.org/wiki/Stoicism). Stoicism begins in the Hellenistic era in Greece synomous with the decline of the Classical period in ancient Greece. An old college philosophy text book that I have says that during that time "these new philosophers led people to think primarily of themselves and how they as individuals in a scheme of nature could achieve the most satisfactory personal life.[^1]
+Manson's advice is unmistakenly in the [stoic tradition](https://en.wikipedia.org/wiki/Stoicism). Stoicism begins in the Hellenistic era in Greece synomous with the decline of the Classical period in ancient Greece. An old college philosophy text book that I have says that during that time "these new philosophers led people to think primarily of themselves and how they as individuals in a scheme of nature could achieve the most satisfactory personal life." [^1]
 
-[^1] 
+[^1] Samuel Enoch Stumpf, Socrates to Sartre (New York: McGraw-Hill, 1993), 108-109.
 
