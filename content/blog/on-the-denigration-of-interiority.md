@@ -4,10 +4,6 @@ date: 2020-11-29T13:36:34.062Z
 title: On the Denigration of Interiority
 description: How did feelings become a dirty word?
 ---
-
-
-![](../assets/trump-rally-fuck-your-feelings.jpg)
-
 What exists?
 
 That is the central question in our discussion of reality.
@@ -17,6 +13,8 @@ To be able to examine this question we rely upon how we experience that which ex
 I bring this up to bring you a strangely hopeful message. Your role in the universe is consequential. Your effect is scientifically quantifiable. Each movement that you make sends ripples into the universe.
 
 I lapse into this emotional plea because I see a distressing trend in contemporary discourse that could most generously be described as a malignant brand of stoicism:
+
+![](../assets/trump-rally-fuck-your-feelings.jpg)
 
 ["Fuck your feelings"](https://markmanson.net/fuck-your-feelings)
 
