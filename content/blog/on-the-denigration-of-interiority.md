@@ -46,7 +46,7 @@ The power of emotion is that it is guided by intuition and past experience. One 
 
 Furthermore, current research shows a relationship between [general intelligence and emotions](https://www.scientificamerican.com/article/emotional-smarts-tied-to/). Emotions are not simply a vestigial remnant of a primitive mind. Feelings are an important component of we treat others and an important factor in how one acts ethically in a social context.
 
-No doubt about it, navigating feelings is often challenging. Feelings are unavoidable. To ask someone to cast aside their feelings is like asking them to cast aside their humanity. Having emotions shouldn't be something that one should feel ashamed of. Moreover, the notion of being able to stamp out emotional challenges through reason and choice alone risks stigmatizing legitimate mental health issues.
+No doubt about it, navigating feelings is often challenging. Feelings are unavoidable. Nevertheless, to ask someone to cast aside their feelings is like asking them to cast aside their humanity. Having emotions shouldn't be something that one should feel ashamed of. Moreover, the notion of being able to stamp out emotional challenges through reason and choice alone risks stigmatizing legitimate mental health issues.
 
 I would go so far as to say embrace your emotions. Emotions are part of who you are. They provide context for you experiences. They are a part of your mind and body. Feelings are an unavoidable and necessary part of the observational framework that you use to understand the reality around you.
 
