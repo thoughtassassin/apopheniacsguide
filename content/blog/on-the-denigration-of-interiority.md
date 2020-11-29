@@ -30,7 +30,7 @@ The text goes on to provide the historical context for the rise of these philoso
 
 > These new directions in ethics were brought about to a great extent by the historical conditions of the time. After the Peloponnesian War and with the fall of Athens, Greek civilization declined. With the breakdown of the small Greek city-state, individual citizens lost the sense of the their own importance and their ability to control or perfect their social and political destiny. Individuals increasingly felt this loss of personal control over collective life as they were absorbed into the growing Roman Empire.
 
-Some of the descriptions of Manson's work that I have read characterize his writings as a Millenialist perspective. The self-help offered is in lieu of a decreasing standard of living for the middle class aided and a dismantling of the post World War II global order. It's not surprising that a stoic philosophy would become ascendant.
+Manson's work is characterized as a [Millenialist perspective](https://www.thetimes.co.uk/article/mark-manson-interview-why-the-millennial-self-help-guru-wrote-a-book-about-hope-636d0q95j). The self-help offered is in lieu of a decreasing standard of living for the middle class aided and a dismantling of the post World War II global order. It's not surprising that a stoic philosophy would become ascendant.
 
 The empowerment that Stoicism provides comes at the cost of turning the locus of control inward. You might not be able to control what is going on in the world but you can control how you respond.
 
