@@ -38,7 +38,7 @@ I don't have a problem with Manson's brand of stoicism. Unfortunately, I can't g
 
 In the Trumpian context "fuck your feelings" is offered as a facile remedy to ills supposedly brought about by years of civil rights legislation, progressive fiscal policies and regulations that have aimed at making life fairer for the average person. The gist is that life isn't fair so stop feeling bad or at all about it. One is called a snowflake if one feels that children shouldn't be caged at the border. One is not a patriot (on the side of "what is good") if you feel sickened when you see the non-stop video documentation of abuses within the criminal justice system.
 
-Years of struggle to make society more just have been guided by raw emotions. Powerful emotions. Emotions that guided and empowered people to seek and enact justice for the greater good of humanity.
+Years of struggle to make society more just have been guided by raw emotions. Powerful emotions. Emotions that empowered people to seek and enact justice for the greater good of humanity.
 
 ![Civil rights marchers arm in arm](../assets/ap_6503170265.jpg)
 
