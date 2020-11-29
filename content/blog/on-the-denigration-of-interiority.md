@@ -4,6 +4,10 @@ date: 2020-11-29T13:36:34.062Z
 title: On the Denigration of Interiority
 description: How did feelings become a dirty word?
 ---
+
+
+![](../assets/trump-rally-fuck-your-feelings.jpg)
+
 What exists?
 
 That is the central question in our discussion of reality.
@@ -32,7 +36,7 @@ Some of the descriptions of Manson's work that I have read characterize his writ
 
 The empowerment that Stoicism provides comes at the cost of turning the locus of control inward. You might not be able to control what is going on in the world but you can control how you respond.
 
-This type of defeatism serves the interests of a status quo. There is nothing particularly radical about it. I don't have a problem with Manson's brand of stoicism. Unfortunately, I can't get past the fact that the phrase "fuck your feelings" has also become a Trumpian fascist mantra.
+I don't have a problem with Manson's brand of stoicism. Unfortunately, I can't get past the fact that the phrase "fuck your feelings" has also become a Trumpian fascist mantra.
 
 In the Trumpian context "fuck your feelings" is offered as a facile remedy to ills supposedly brought about by years of civil rights legislation, progressive fiscal policies and regulations that have aimed at making life fairer for the average person. The gist is that life isn't fair so stop feeling bad or at all about it. One is called a snowflake if that individual feels that children shouldn't be caged at the border. On is not a patriot (on the side of "what is good") if you feel sickened when you see the non-stop video documentation of abuses within the criminal justice system.
 
