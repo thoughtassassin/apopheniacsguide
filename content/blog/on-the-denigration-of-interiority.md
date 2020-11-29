@@ -10,7 +10,7 @@ That is the central question in our discussion of reality.
 
 To be able to examine this question we rely upon how we experience that which exists. The role of the observer is essential to understanding fundamental laws of nature such as quantum mechanics and relativity. The state of particles depends upon the role of the observer. Speed and motion depends upon the role of the observer.
 
-I bring this up to bring you a strangely hopeful message. Your role in the universe matters. Your effect is scientifically quantifiable. Each movement that you make sends ripples throughout the universe.
+I bring this up to bring you a strangely hopeful message. Your role in the universe matters. Your effect is scientifically quantifiable. Each movement that you make sends ripples into the universe.
 
 I lapse into this emotional plea because I see a distressing trend in contemporary discourse that could most generously be described as misappropriated stoicism:
 
@@ -22,5 +22,7 @@ Author and philosopher Mark Manson invites his readers to rid themselves of self
 
 However, the irony and paradox central in the phrase "fuck your feelings" is that it invites you to be indignant about being emotional. 🤔
 
-Manson's advice is unmistakenly in the [stoic tradition](https://en.wikipedia.org/wiki/Stoicism). Stoicism begins in the Hellenistic era in Greece synomous with the decline of the Classical period in ancient Greece.
+Manson's advice is unmistakenly in the [stoic tradition](https://en.wikipedia.org/wiki/Stoicism). Stoicism begins in the Hellenistic era in Greece synomous with the decline of the Classical period in ancient Greece. An old college philosophy text book that I have says that during that time "these new philosophers led people to think primarily of themselves and how they as individuals in a scheme of nature could achieve the most satisfactory personal life.[^1]
+
+[^1] 
 
