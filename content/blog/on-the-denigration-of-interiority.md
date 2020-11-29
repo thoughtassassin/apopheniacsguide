@@ -28,9 +28,13 @@ The text goes on to provide the historical context for the rise of these philoso
 
 > These new directions in ethics were brought about to a great extent by the historical conditions of the time. After the Peloponnesian War and with the fall of Athens, Greek civilization declined. With the breakdown of the small Greek city-state, individual citizens lost the sense of the their own importance and their ability to control or perfect thier social and political destiny. Individuals increasingly felt this loss of personal control over collective life as they were absorbed into the growing Roman Empire.
 
+Some of the descriptions of Manson's work that I have read characterize his writings as a Millenialist perspective. The self-help offered is in lieu of a decreasing standard of living for the middle class aided and abetted by neoliberal fiscal policies and accompanied by the dismantling of a post World War II global order. It's not surprising that a stoic philosophy would become ascendant.
+
 The empowerment that Stoicism provides comes at the cost of turning the locus of control inward. You might not be able to control what is going on in the world but you can control how you respond.
 
+Unfortunately, this type of defeatism serves the status quo. There is nothing particulary radical about it. I don't have a problem with Manson's brand of stoicism. Unfortunately, the phrase "Fuck your Feelings" has also become a Trumpian fascist mantra.
 
+In this context it is meant as a critique 
 
 [^1] Samuel Enoch Stumpf, Socrates to Sartre (New York: McGraw-Hill, 1993), 108-109.
 
