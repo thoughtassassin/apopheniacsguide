@@ -28,7 +28,7 @@ Manson's advice is unmistakably in the [stoic tradition](https://en.wikipedia.or
 
 The text goes on to provide the historical context for the rise of these philosophical movements:
 
-> These new directions in ethics were brought about to a great extent by the historical conditions of the time. After the Peloponnesian War and with the fall of Athens, Greek civilization declined. With the breakdown of the small Greek city-state, individual citizens lost the sense of the their own importance and their ability to control or perfect their social and political destiny. Individuals increasingly felt this loss of personal control over collective life as they were absorbed into the growing Roman Empire.
+> These new directions in ethics were brought about to a great extent by the historical conditions of the times. After the Peloponnesian War and with the fall of Athens, Greek civilization declined. With the breakdown of the small Greek city-state, individual citizens lost the sense of their own importance and their ability to control or perfect their social and political destiny. Individuals increasingly felt this loss of personal control over collective life as they were absorbed into the growing Roman Empire.
 
 Manson's work is characterized as a [Millenialist](https://www.thetimes.co.uk/article/mark-manson-interview-why-the-millennial-self-help-guru-wrote-a-book-about-hope-636d0q95j). The self-help offered is in lieu of a decreasing standard of living for the middle class and a dismantling of the post World War II global order. It's not surprising that a stoic philosophy would become ascendant.
 
