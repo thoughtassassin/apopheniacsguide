@@ -12,7 +12,7 @@ To be able to examine this question we rely upon how we experience that which ex
 
 I bring this up to bring you a strangely hopeful message. Your role in the universe matters. Your effect is scientifically quantifiable. Each movement that you make sends ripples into the universe.
 
-I lapse into this emotional plea because I see a distressing trend in contemporary discourse that could most generously be described as brand of stoicism:
+I lapse into this emotional plea because I see a distressing trend in contemporary discourse that could most generously be described as a malignant brand of stoicism:
 
 ["Fuck your feelings"](https://markmanson.net/fuck-your-feelings)
 
