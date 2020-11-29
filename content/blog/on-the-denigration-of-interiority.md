@@ -16,7 +16,7 @@ I lapse into this emotional plea because I see a distressing trend in contempora
 
 ["Fuck your feelings"](https://markmanson.net/fuck-your-feelings)
 
-Author and philosopher Mark Manson invites his readers to divest themselves of self-indulgence and focus on the question of what is good. This is excellent advice. He warns that self-absorption [(metafeelings)](https://markmanson.net/fuck-your-feelings#metafeelings-table) acts as a barrier to a rational path to self-fulfillment. Moreover, he warns: 
+Author and philosopher Mark Manson invites his readers to rid themselves of self-indulgence and focus on the question of what is good. This is excellent advice. He warns that self-absorption [(metafeelings)](https://markmanson.net/fuck-your-feelings#metafeelings-table) acts as a barrier to a rational path to self-fulfillment. Moreover, he warns: 
 
 > Much of the social strife that we’re experiencing today is the result of these meta-feelings. Moralizing mobs on both the political right and left see themselves as victimized and somehow special in every miniscule pain or setback they experience. Greed skyrockets while the rich congratulate themselves on being rich in tandem with the increasing rates of [anxiety](https://markmanson.net/videos/overcome-anxiety-course) and depression as the lower and middle classes hate themselves for feeling left behind.
 
