@@ -32,7 +32,7 @@ The text goes on to provide the historical context for the rise of these philoso
 
 Manson's work is characterized as [Millenialist](https://www.thetimes.co.uk/article/mark-manson-interview-why-the-millennial-self-help-guru-wrote-a-book-about-hope-636d0q95j). The self-help offered is in lieu of a decreasing standard of living for the middle class and a dismantling of the post World War II global order. It's not surprising that a stoic philosophy would become ascendant.
 
-The empowerment that Stoicism provides comes at the cost of turning the locus of control inward. You might not be able to control what is going on in the world but you can control how you respond.
+The empowerment that Stoicism provides comes at the cost of eradicating any confidence in an individual's agency in the external world. You might not be able to control what is going on in the world but you can control how you respond.
 
 I don't have a problem with Manson's brand of stoicism. Unfortunately, I can't get past the fact that the phrase "fuck your feelings" has also become a pernicious fascist mantra in some circles.
 
